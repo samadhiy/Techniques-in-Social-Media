@@ -21,8 +21,6 @@ A simple Instagram-style post card UI built using HTML, CSS, and JavaScript. Thi
 - CSS  
 - JavaScript  
 
----
-
 
 ---
 
@@ -35,7 +33,7 @@ A simple Instagram-style post card UI built using HTML, CSS, and JavaScript. Thi
 
 ## 📸 Preview
 
-![Preview](./22UG2-0013 Activity 1.pdf)
+![Preview](./22UG2-0013Activity1.pdf)
 
 ---
 
